@@ -14,7 +14,9 @@ setup(
     },
     keywords="temp temporary files directory",
     license='GPL',
-    long_description=open('README.rst').read(),
+    long_description=(
+        open('README.rst').read() + '\n' +
+        open('CHANGES.rst').read()),
     name='tmp',
     py_modules=[
         'tests',
