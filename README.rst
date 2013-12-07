@@ -11,8 +11,8 @@ Install
     $ pip install tmp    
 
 
-Usage
------
+Use
+---
 
 Make a temp dir e.g.::
 
