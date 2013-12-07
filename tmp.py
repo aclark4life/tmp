@@ -3,7 +3,6 @@ import tempfile
 
 def tmp():
     tmpdir = tempfile.mkdtemp()
-    print(tmpdir)
     return tmpdir
 
 
