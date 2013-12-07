@@ -6,5 +6,10 @@ class TestCase(unittest.TestCase):
     """
 
     def test_tmp(self):
-        assert True is True
-    
+        """
+        """
+
+        from tmp import tmp
+        import os
+        tmpdir = tmp()
+        os.listdir(tmpdir)

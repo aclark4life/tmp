@@ -2,7 +2,9 @@ import tempfile
 
 
 def tmp():
-    print(tempfile.mkdtemp())
+    tmpdir = tempfile.mkdtemp()
+    print(tmpdir)
+    return tmpdir
 
 
 if __name__ == '__main__':

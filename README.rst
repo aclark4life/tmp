@@ -1,7 +1,7 @@
 tmp
 ===
 
-Because sometimes you just want a temporary directory from Python.
+Because sometimes you just want a temp dir.
 
 Usage
 -----

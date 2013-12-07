@@ -17,6 +17,7 @@ setup(
     long_description=open('README.rst').read(),
     name='tmp',
     py_modules=[
+        'tests',
         'tmp',
     ],
     test_suite='tests.TestCase',
