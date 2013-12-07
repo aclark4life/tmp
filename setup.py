@@ -24,6 +24,6 @@ setup(
     ],
     test_suite='tests.TestCase',
     url='https://github.com/aclark4life/tmp',
-    version='0.0.1',
+    version='0.0.2',
     zip_safe=False,
 )
