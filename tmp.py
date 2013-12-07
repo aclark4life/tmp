@@ -1,10 +1,22 @@
 import tempfile
 
 
+def print_tmp():
+    """
+    Support
+
+        $ cd `tmp`
+
+    """
+    print(tmp())
+
+
 def tmp():
-    tmpdir = tempfile.mkdtemp()
-    return tmpdir
+    """
+    Create temp dir
+    """
+    return tempfile.mkdtemp()
 
 
 if __name__ == '__main__':
-    tmp()
+    print_tmp()
