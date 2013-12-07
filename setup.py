@@ -10,7 +10,7 @@ setup(
     ],
     description="Make a temp dir",
     entry_points={
-        'console_scripts': 'tmp=tmp:tmp',
+        'console_scripts': 'tmp=tmp:print_tmp',
     },
     keywords="temp temporary files directory",
     license='GPL',
