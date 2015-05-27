@@ -3,10 +3,7 @@ import tempfile
 
 def print_tmp():
     """
-    Support
-
-        $ cd `tmp`
-
+    Print temp dir
     """
     print(tmp())
 

@@ -3,18 +3,18 @@ Tmp
 
 Because sometimes you want a temporary directory
 
-Install
--------
+Installation
+------------
 
 ::
 
     $ pip install tmp    
 
 
-Use
----
+Usage
+-----
 
-Make a temporary directory::
+::
 
     $ tmp
     /var/folders/1k/fmmlqcfn5jsbcqrqsw3q_slm0000gn/T/tmpVA4Nvs
