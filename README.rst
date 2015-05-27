@@ -1,7 +1,7 @@
 Tmp
 ===
 
-Because sometimes you just want a temp dir.
+Because sometimes you want a temporary directory.
 
 Install
 -------
@@ -14,7 +14,7 @@ Install
 Use
 ---
 
-Make a temp dir e.g.::
+Make a temporary directory::
 
     $ tmp
     /var/folders/1k/fmmlqcfn5jsbcqrqsw3q_slm0000gn/T/tmpVA4Nvs
