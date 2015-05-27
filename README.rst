@@ -1,7 +1,7 @@
 Tmp
 ===
 
-Because sometimes you want a temporary directory.
+Because sometimes you want a temporary directory
 
 Install
 -------
